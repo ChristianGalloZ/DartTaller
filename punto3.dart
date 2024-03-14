@@ -6,4 +6,8 @@ bool isPalindrome(String str) {
 void main(){
 
   print(isPalindrome('anita lava la tina'));
+  print(isPalindrome('ana'));
+  print(isPalindrome('celular'));
+  print(isPalindrome('reconocer'));
+
 }
